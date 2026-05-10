@@ -9,8 +9,7 @@
 ---
 
 - 🎓 CS undergrad, 4th semester — **Kolkata, India**
-- 🔨 Currently building **[InkID](https://github.com/ShivenThakker/InkID)** — a full-stack mobile app with ML-powered ink detection (YOLOv8 + ResNet-18)
-- 🤝 Collaborating on **[Ink Forge](https://github.com/ShivenThakker/Ink_Forge)** — a Node.js team project
+- 🔨 Currently building **[Ink Forge](https://github.com/ShivenThakker/Ink_Forge)** — a full-stack Node.js project
 - 🌱 Deep-diving into **full-stack web development** via The Odin Project
 - 🤖 Running local LLMs on an **RTX 3050** via Ollama for offline AI workflows
 - 💼 Looking for **full-stack internships** — hit me up!
@@ -73,8 +72,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivenThakker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivenThakker&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=ShivenThakker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShivenThakker&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -86,23 +85,13 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[InkID](https://github.com/ShivenThakker/InkID)** | Mobile app for ML-powered ink product identification | React Native · FastAPI · YOLOv8 · Supabase |
-| **[Ink Forge](https://github.com/ShivenThakker/Ink_Forge)** | Collaborative writing/publishing platform | Node.js · Express · PostgreSQL |
-| **IronLog** | Workout tracking app | React · Node.js · Prisma |
-| **Insta Sorter** | Instagram media organizer tool | Python |
-
----
-
 <div align="center">
 
 ### 💬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiven-thakker-604347328/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiventhakker06@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/con__queso/?hl=en)
 
 *Open to full-stack internship opportunities — let's build something.*
 
